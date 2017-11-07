@@ -1,6 +1,6 @@
 # Project configuration
 NAME=ft-clipboard-behavior
-VERSION=0.0.3
+VERSION=0.0.4
 LOCAL_PORT=3517
 GITHUB_USER=filethis
 GITHUB_USER_ABBREV=ft

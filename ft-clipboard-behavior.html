@@ -73,7 +73,7 @@ limitations under the License.
 
                 // Execute the copy command
                 var result = document.execCommand('copy');
-                if (result === "unsuccessful")
+                if (!result || result === "unsuccessful")
                     console.log("ft-clipboard-behavior: Copy failed.");
             }
             catch (err)

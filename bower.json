@@ -3,7 +3,7 @@
   "description": "A behavior element that lets us copy text to the browser clipboard.",
   "main": "ft-clipboard-behavior.html",
   "dependencies": {
-    "ft-element-demo": "filethis/ft-element-demo#^1.0.14",
+    "ft-element-demo": "filethis/ft-element-demo#^1.0.15",
     "polymer": "Polymer/polymer#^2.7.0"
   },
   "devDependencies": {

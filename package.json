@@ -36,5 +36,21 @@
     "@polymer/iron-test-helpers": "^3.0.0",
     "wct-browser-legacy": "^1.0.1",
     "@webcomponents/webcomponentsjs": "^2.0.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filethis/ft-clipboard-behavior.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filethis/ft-clipboard-behavior/issues"
+  },
+  "homepage": "https://github.com/filethis/ft-clipboard-behavior#readme"
 }

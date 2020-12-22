@@ -1,6 +1,6 @@
 {
   "description": "A behavior element that lets us copy text to the browser clipboard.",
-  "name": "ft-clipboard-behavior",
+  "name": "@filethis/ft-clipboard-behavior",
   "version": "1.0.10",
   "resolutions": {
     "inherits": "2.0.3",
@@ -15,7 +15,6 @@
     "*.make",
     "*.png",
     "*.svg",
-    ".yalc/",
     "data/",
     "demo/",
     "test/",
